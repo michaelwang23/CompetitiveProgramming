@@ -1,3 +1,5 @@
+package Div2B;
+
 import java.util.*;
 public class Burglar_and_Matches {
     public static void main(String[] args) {

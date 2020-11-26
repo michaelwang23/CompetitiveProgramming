@@ -1,3 +1,5 @@
+package Div2B;
+
 import java.util.*;
 public class Petya_and_Countryside {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Div2B;
+
 import java.util.*;
 public class Bear_and_Finding_Criminals {
     public static void main(String[] args) {
